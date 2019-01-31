@@ -1,0 +1,11 @@
+/Users/castr/Documents/Proyectos/HolaMundo/bin/Debug/netcoreapp2.2/HolaMundo.deps.json
+/Users/castr/Documents/Proyectos/HolaMundo/bin/Debug/netcoreapp2.2/HolaMundo.runtimeconfig.json
+/Users/castr/Documents/Proyectos/HolaMundo/bin/Debug/netcoreapp2.2/HolaMundo.runtimeconfig.dev.json
+/Users/castr/Documents/Proyectos/HolaMundo/bin/Debug/netcoreapp2.2/HolaMundo.dll
+/Users/castr/Documents/Proyectos/HolaMundo/bin/Debug/netcoreapp2.2/HolaMundo.pdb
+/Users/castr/Documents/Proyectos/HolaMundo/obj/Debug/netcoreapp2.2/HolaMundo.csprojAssemblyReference.cache
+/Users/castr/Documents/Proyectos/HolaMundo/obj/Debug/netcoreapp2.2/HolaMundo.csproj.CoreCompileInputs.cache
+/Users/castr/Documents/Proyectos/HolaMundo/obj/Debug/netcoreapp2.2/HolaMundo.AssemblyInfoInputs.cache
+/Users/castr/Documents/Proyectos/HolaMundo/obj/Debug/netcoreapp2.2/HolaMundo.AssemblyInfo.cs
+/Users/castr/Documents/Proyectos/HolaMundo/obj/Debug/netcoreapp2.2/HolaMundo.dll
+/Users/castr/Documents/Proyectos/HolaMundo/obj/Debug/netcoreapp2.2/HolaMundo.pdb

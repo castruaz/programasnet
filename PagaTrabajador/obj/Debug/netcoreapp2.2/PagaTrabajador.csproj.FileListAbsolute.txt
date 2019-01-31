@@ -1,0 +1,11 @@
+/Users/castr/Documents/Proyectos/PagaTrabajador/bin/Debug/netcoreapp2.2/PagaTrabajador.deps.json
+/Users/castr/Documents/Proyectos/PagaTrabajador/bin/Debug/netcoreapp2.2/PagaTrabajador.runtimeconfig.json
+/Users/castr/Documents/Proyectos/PagaTrabajador/bin/Debug/netcoreapp2.2/PagaTrabajador.runtimeconfig.dev.json
+/Users/castr/Documents/Proyectos/PagaTrabajador/bin/Debug/netcoreapp2.2/PagaTrabajador.dll
+/Users/castr/Documents/Proyectos/PagaTrabajador/bin/Debug/netcoreapp2.2/PagaTrabajador.pdb
+/Users/castr/Documents/Proyectos/PagaTrabajador/obj/Debug/netcoreapp2.2/PagaTrabajador.csprojAssemblyReference.cache
+/Users/castr/Documents/Proyectos/PagaTrabajador/obj/Debug/netcoreapp2.2/PagaTrabajador.csproj.CoreCompileInputs.cache
+/Users/castr/Documents/Proyectos/PagaTrabajador/obj/Debug/netcoreapp2.2/PagaTrabajador.AssemblyInfoInputs.cache
+/Users/castr/Documents/Proyectos/PagaTrabajador/obj/Debug/netcoreapp2.2/PagaTrabajador.AssemblyInfo.cs
+/Users/castr/Documents/Proyectos/PagaTrabajador/obj/Debug/netcoreapp2.2/PagaTrabajador.dll
+/Users/castr/Documents/Proyectos/PagaTrabajador/obj/Debug/netcoreapp2.2/PagaTrabajador.pdb
