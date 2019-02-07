@@ -1,0 +1,17 @@
+/Users/castr/Documents/Proyectos/misolucion/test-library/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/castr/Documents/Proyectos/misolucion/test-library/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/castr/Documents/Proyectos/misolucion/test-library/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/castr/Documents/Proyectos/misolucion/test-library/bin/Debug/netcoreapp2.2/test-library.deps.json
+/Users/castr/Documents/Proyectos/misolucion/test-library/bin/Debug/netcoreapp2.2/test-library.runtimeconfig.json
+/Users/castr/Documents/Proyectos/misolucion/test-library/bin/Debug/netcoreapp2.2/test-library.runtimeconfig.dev.json
+/Users/castr/Documents/Proyectos/misolucion/test-library/bin/Debug/netcoreapp2.2/test-library.dll
+/Users/castr/Documents/Proyectos/misolucion/test-library/bin/Debug/netcoreapp2.2/test-library.pdb
+/Users/castr/Documents/Proyectos/misolucion/test-library/bin/Debug/netcoreapp2.2/library.dll
+/Users/castr/Documents/Proyectos/misolucion/test-library/bin/Debug/netcoreapp2.2/library.pdb
+/Users/castr/Documents/Proyectos/misolucion/test-library/obj/Debug/netcoreapp2.2/test-library.csprojAssemblyReference.cache
+/Users/castr/Documents/Proyectos/misolucion/test-library/obj/Debug/netcoreapp2.2/test-library.csproj.CoreCompileInputs.cache
+/Users/castr/Documents/Proyectos/misolucion/test-library/obj/Debug/netcoreapp2.2/test-library.AssemblyInfoInputs.cache
+/Users/castr/Documents/Proyectos/misolucion/test-library/obj/Debug/netcoreapp2.2/test-library.AssemblyInfo.cs
+/Users/castr/Documents/Proyectos/misolucion/test-library/obj/Debug/netcoreapp2.2/test-library.csproj.CopyComplete
+/Users/castr/Documents/Proyectos/misolucion/test-library/obj/Debug/netcoreapp2.2/test-library.dll
+/Users/castr/Documents/Proyectos/misolucion/test-library/obj/Debug/netcoreapp2.2/test-library.pdb
