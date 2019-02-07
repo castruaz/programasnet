@@ -1,9 +1,0 @@
-/Users/castr/Documents/Proyectos/misolucion/library/bin/Debug/netstandard2.0/library.deps.json
-/Users/castr/Documents/Proyectos/misolucion/library/bin/Debug/netstandard2.0/library.dll
-/Users/castr/Documents/Proyectos/misolucion/library/bin/Debug/netstandard2.0/library.pdb
-/Users/castr/Documents/Proyectos/misolucion/library/obj/Debug/netstandard2.0/library.csprojAssemblyReference.cache
-/Users/castr/Documents/Proyectos/misolucion/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
-/Users/castr/Documents/Proyectos/misolucion/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
-/Users/castr/Documents/Proyectos/misolucion/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
-/Users/castr/Documents/Proyectos/misolucion/library/obj/Debug/netstandard2.0/library.dll
-/Users/castr/Documents/Proyectos/misolucion/library/obj/Debug/netstandard2.0/library.pdb
