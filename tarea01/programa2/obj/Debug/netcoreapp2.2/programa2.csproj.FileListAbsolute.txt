@@ -1,0 +1,11 @@
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/05.segredessis.is.6b/Proyectos/tarea01/programa2/obj/Debug/netcoreapp2.2/programa2.csprojAssemblyReference.cache
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/05.segredessis.is.6b/Proyectos/tarea01/programa2/obj/Debug/netcoreapp2.2/programa2.csproj.CoreCompileInputs.cache
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/05.segredessis.is.6b/Proyectos/tarea01/programa2/obj/Debug/netcoreapp2.2/programa2.AssemblyInfoInputs.cache
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/05.segredessis.is.6b/Proyectos/tarea01/programa2/obj/Debug/netcoreapp2.2/programa2.AssemblyInfo.cs
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/05.segredessis.is.6b/Proyectos/tarea01/programa2/bin/Debug/netcoreapp2.2/programa2.deps.json
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/05.segredessis.is.6b/Proyectos/tarea01/programa2/bin/Debug/netcoreapp2.2/programa2.runtimeconfig.json
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/05.segredessis.is.6b/Proyectos/tarea01/programa2/bin/Debug/netcoreapp2.2/programa2.runtimeconfig.dev.json
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/05.segredessis.is.6b/Proyectos/tarea01/programa2/bin/Debug/netcoreapp2.2/programa2.dll
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/05.segredessis.is.6b/Proyectos/tarea01/programa2/bin/Debug/netcoreapp2.2/programa2.pdb
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/05.segredessis.is.6b/Proyectos/tarea01/programa2/obj/Debug/netcoreapp2.2/programa2.dll
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/05.segredessis.is.6b/Proyectos/tarea01/programa2/obj/Debug/netcoreapp2.2/programa2.pdb
