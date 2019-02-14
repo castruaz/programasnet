@@ -37,7 +37,7 @@ namespace programa2
             // Cubierta
             cub = char.Parse(args[2]);
             if(cub=='D') cubierta="Pequeña";
-            else if(tam=='G') cubierta="Gruesa";
+            else if(cub=='G') cubierta="Gruesa";
 
             // Para 
             par = char.Parse(args[3]);

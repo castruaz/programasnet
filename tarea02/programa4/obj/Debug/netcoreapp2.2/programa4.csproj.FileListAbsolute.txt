@@ -1,0 +1,11 @@
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea02/programa4/obj/Debug/netcoreapp2.2/programa4.csprojAssemblyReference.cache
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea02/programa4/obj/Debug/netcoreapp2.2/programa4.csproj.CoreCompileInputs.cache
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea02/programa4/obj/Debug/netcoreapp2.2/programa4.AssemblyInfoInputs.cache
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea02/programa4/obj/Debug/netcoreapp2.2/programa4.AssemblyInfo.cs
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea02/programa4/bin/Debug/netcoreapp2.2/programa4.deps.json
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea02/programa4/bin/Debug/netcoreapp2.2/programa4.runtimeconfig.json
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea02/programa4/bin/Debug/netcoreapp2.2/programa4.runtimeconfig.dev.json
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea02/programa4/bin/Debug/netcoreapp2.2/programa4.dll
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea02/programa4/bin/Debug/netcoreapp2.2/programa4.pdb
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea02/programa4/obj/Debug/netcoreapp2.2/programa4.dll
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea02/programa4/obj/Debug/netcoreapp2.2/programa4.pdb
