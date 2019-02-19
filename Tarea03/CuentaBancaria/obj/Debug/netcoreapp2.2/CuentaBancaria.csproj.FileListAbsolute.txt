@@ -1,0 +1,11 @@
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/Tarea03/CuentaBancaria/obj/Debug/netcoreapp2.2/CuentaBancaria.csprojAssemblyReference.cache
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/Tarea03/CuentaBancaria/obj/Debug/netcoreapp2.2/CuentaBancaria.csproj.CoreCompileInputs.cache
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/Tarea03/CuentaBancaria/obj/Debug/netcoreapp2.2/CuentaBancaria.AssemblyInfoInputs.cache
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/Tarea03/CuentaBancaria/obj/Debug/netcoreapp2.2/CuentaBancaria.AssemblyInfo.cs
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/Tarea03/CuentaBancaria/bin/Debug/netcoreapp2.2/CuentaBancaria.deps.json
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/Tarea03/CuentaBancaria/bin/Debug/netcoreapp2.2/CuentaBancaria.runtimeconfig.json
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/Tarea03/CuentaBancaria/bin/Debug/netcoreapp2.2/CuentaBancaria.runtimeconfig.dev.json
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/Tarea03/CuentaBancaria/bin/Debug/netcoreapp2.2/CuentaBancaria.dll
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/Tarea03/CuentaBancaria/bin/Debug/netcoreapp2.2/CuentaBancaria.pdb
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/Tarea03/CuentaBancaria/obj/Debug/netcoreapp2.2/CuentaBancaria.dll
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/Tarea03/CuentaBancaria/obj/Debug/netcoreapp2.2/CuentaBancaria.pdb
