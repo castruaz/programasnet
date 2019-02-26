@@ -1,0 +1,11 @@
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea3/ControlBancario/bin/Debug/netcoreapp2.2/ControlBancario.deps.json
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea3/ControlBancario/bin/Debug/netcoreapp2.2/ControlBancario.runtimeconfig.json
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea3/ControlBancario/bin/Debug/netcoreapp2.2/ControlBancario.runtimeconfig.dev.json
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea3/ControlBancario/bin/Debug/netcoreapp2.2/ControlBancario.dll
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea3/ControlBancario/bin/Debug/netcoreapp2.2/ControlBancario.pdb
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea3/ControlBancario/obj/Debug/netcoreapp2.2/ControlBancario.csprojAssemblyReference.cache
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea3/ControlBancario/obj/Debug/netcoreapp2.2/ControlBancario.csproj.CoreCompileInputs.cache
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea3/ControlBancario/obj/Debug/netcoreapp2.2/ControlBancario.AssemblyInfoInputs.cache
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea3/ControlBancario/obj/Debug/netcoreapp2.2/ControlBancario.AssemblyInfo.cs
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea3/ControlBancario/obj/Debug/netcoreapp2.2/ControlBancario.dll
+/Users/castr/Dropbox/Uaz2019/ClasesEJ2019/04.sisinfgeo.ic.8b/Proyectos/tarea3/ControlBancario/obj/Debug/netcoreapp2.2/ControlBancario.pdb

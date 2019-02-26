@@ -1,8 +1,7 @@
 using System;
-
 namespace ControlBancario.Clases
 {
-     [Serializable]
+    [Serializable] 
     public class CuentaBancaria
     {
         protected double saldo; // protected permite que las clases derivadas accedan

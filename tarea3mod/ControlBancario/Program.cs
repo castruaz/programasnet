@@ -2,7 +2,6 @@
 using ControlBancario.Clases;
 using System.IO;
 
-
 namespace ControlBancario
 {
     class Program
@@ -49,32 +48,36 @@ namespace ControlBancario
 
         static void Main(string[] args) {
 
-            Banco mibanco;
+            Banco mibanco = new Banco();
+            
+            string nomarch = "banco.bin";
+            string actDir = Directory.GetCurrentDirectory();
+            
 
-            string ruta = Directory.GetCurrentDirectory();
-            string arch = "banco.dat";
-
-            if( File.Exists(ruta+"/"+arch) ) {
-                Console.WriteLine("Archivo de datos SI EXISTE, leyendo datos del ARCHIVO");
+            if(File.Exists(actDir+"/"+nomarch))
+            {
+                Console.WriteLine("Archivo de Datos Existe, los datos serán cargados del archivo ...");
                 mibanco = new Banco();
-                mibanco = Utilerias.Leer(arch);
+                mibanco = Utilerias.Leer(nomarch);
             }
             else {
-                Console.WriteLine("Archivo de datos NO EXISTE, creando datos y creando ARCHIVO");
+                Console.WriteLine("Archivo de Datos No Existe");
                 mibanco = new Banco("Mac Pato Ricon S.A.");
                 mibanco.AgregarCliente(new Cliente("Chente Fox"));
                 mibanco.AgregarCliente(new Cliente("Felipe Beberon"));
                 mibanco.AgregarCliente(new Cliente("Lord Peña"));
                 mibanco.AgregarCliente(new Cliente("Cabecita Algodon"));
+
                 mibanco.Clientes[0].AgregarCuenta(new CuentaDeCheques(100,2000));
                 mibanco.Clientes[1].AgregarCuenta(new CuentaDeCheques(200,1000));
                 mibanco.Clientes[1].AgregarCuenta(new CuentaDeAhorros(300,0.5));
                 mibanco.Clientes[3].AgregarCuenta(new CuentaDeAhorros(1300,5000));
                 mibanco.Clientes[3].AgregarCuenta(new CuentaDeCheques(2000,15000));
+
                 mibanco.Clientes[0].Cuentas[0].Retira(300);
                 mibanco.Clientes[1].Cuentas[1].Deposita(600);
                 mibanco.Clientes[3].Cuentas[1].Retira(5000);
-                Utilerias.Grabar(mibanco, arch);
+                Utilerias.Grabar(mibanco, "banco.bin");
             }
 
             Console.WriteLine("---- Reporte General del Banco --------------");
@@ -90,9 +93,11 @@ namespace ControlBancario
                         Console.WriteLine($"Cheques: saldo {cta.Saldo} ");
                 }
                 Console.WriteLine();
-
-                 
             }
         }
+
+
+
+        
     }
 }

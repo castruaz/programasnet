@@ -1,10 +1,9 @@
-
-using System.Collections.Generic;
 using System;
+using System.Collections.Generic;
 
 namespace ControlBancario.Clases
 {
-   [Serializable]
+    [Serializable] 
     public class Cliente
     {
          private string nombre;
